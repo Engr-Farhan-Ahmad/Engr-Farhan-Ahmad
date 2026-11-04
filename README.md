@@ -1,7 +1,3 @@
-<!-- ============================================================
-     Replace every YOUR_USERNAME with your new GitHub username.
-     ============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Farhan%20Ahmad&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%86%92%20AI%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
@@ -15,7 +11,7 @@
 <a href="https://www.linkedin.com/in/farhan-ahmad-83193b214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:inboxfarhanahmad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.fiverr.com/farhan_networkx"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Engr-Farhan-Ahmad&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -106,12 +102,12 @@ Co-founding an early-stage startup that brings AI and rule engines to cosmetics 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=E2E8F0&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E2E8F0&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Engr-Farhan-Ahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=E2E8F0&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Farhan-Ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E2E8F0&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA" />
+<img src="https://streak-stats.demolab.com?user=Engr-Farhan-Ahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=60A5FA&line=7C3AED&point=E2E8F0&area=true&area_color=2563EB&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Engr-Farhan-Ahmad&bg_color=0D1117&color=60A5FA&line=7C3AED&point=E2E8F0&area=true&area_color=2563EB&hide_border=true" />
 
 </div>
 
@@ -121,9 +117,9 @@ Co-founding an early-stage startup that brings AI and rule engines to cosmetics 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Engr-Farhan-Ahmad/Engr-Farhan-Ahmad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Engr-Farhan-Ahmad/Engr-Farhan-Ahmad/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Engr-Farhan-Ahmad/Engr-Farhan-Ahmad/output/github-snake-dark.svg" />
 </picture>
 </div>
 
